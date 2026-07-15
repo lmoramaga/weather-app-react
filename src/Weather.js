@@ -44,16 +44,23 @@ export default function Weather() {
 
       <footer>
         This project was coded by
-        <a href="https://github.com/lmoramaga" target="_blank">
+        <a href="https://github.com/lmoramaga" target="_blank" rel="noreferrer">
           {" "}
           Lina Moramaga
         </a>
         , is
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/lmoramaga/weather-app-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced on GitHub
         </a>
         and
-        <a href="" target="_blank">
+        <a
+          href="https://github.com/lmoramaga/weather-app-react"
+          target="_blank"
+        >
           hosted on Netlify
         </a>
       </footer>
